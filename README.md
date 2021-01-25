@@ -1,4 +1,4 @@
-# SLU_CourseViewer
+# SLU Course Viewer
  Auto export grades in Shanghai Lixin University of Accounting and Finance from the data center
 
 ![](https://img.shields.io/badge/tests-2021.1.19%20%E2%9C%94-green)
